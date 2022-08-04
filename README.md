@@ -30,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Project Preview
 
-![](file:///C:/Users/iclal/OneDrive/Masa%C3%BCst%C3%BC/Picture1.png)
+![](https://www.linkpicture.com/view.php?img=LPic62ebdf56616381544851759)
