@@ -34,4 +34,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Links
 
-[patikadev.ödev1](https://app.patika.dev/courses/git/odev1)
+[patikadev](www.patika.dev)
