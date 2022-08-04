@@ -31,3 +31,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Project Preview
 
 [![image](https://www.linkpicture.com/q/Picture1_11.png)](https://www.linkpicture.com/view.php?img=LPic62ebdf56616381544851759)
+
+## Links
+
+[patikadev.ödev1](https://app.patika.dev/courses/git/odev1)
