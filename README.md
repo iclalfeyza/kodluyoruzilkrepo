@@ -30,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Project Preview
 
-![](file:///C:/Users/iclal/OneDrive/Masa%C3%BCst%C3%BC/Picture1.png)
+![](../../../Masa%C3%BCst%C3%BC/Picture1.png)
